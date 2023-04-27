@@ -4,7 +4,7 @@ LockBox is a web application for securely storing passwords and other sensitive 
 ## Usage
 To use LockBox, follow these steps:
 
-Visit the live application at https://ronald-luo.github.io/lock-box/.
+Visit the live application at https://ronald-luo.github.io/lock-box/ or https://lock-box.ronald-luo.repl.co/.
 Create an account by providing your email address and a secure password.
 Log in to your account using your email address and password.
 Add new items to your LockBox by clicking the "Add Item" button and filling in the necessary information.
